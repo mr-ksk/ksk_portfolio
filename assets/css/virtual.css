@@ -387,16 +387,6 @@ a:hover, a:active {
 }
 
 /* Social Color */
-.bg-facebook,
-.bg-hover-facebook:hover {
-    background-color: #3B5997 !important;
-}
-
-.bg-twitter,
-.bg-hover-twitter:hover {
-    background-color: #1DA1F2 !important;
-}
-
 .bg-linkedin,
 .bg-hover-linkedin:hover {
     background-color: #0077B5 !important;
